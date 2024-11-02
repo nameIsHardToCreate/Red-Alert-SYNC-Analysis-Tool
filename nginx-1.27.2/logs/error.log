@@ -1,0 +1,1 @@
+2024/11/02 12:09:26 [emerg] 9900#10672: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
